@@ -33,4 +33,15 @@ Strong emphasis on **real-world modeling, evaluation, and deployment**.
 
 ---
 
-## 🛠
+## 🛠 Core Skills (Quick Scan)
+
+**ML / DL:** Random Forest, SVM, XGBoost, LSTM, CNN  
+**Data:** Time-series analysis, feature engineering, evaluation metrics  
+**NLP:** TF-IDF, embeddings, topic modeling (BERTopic)  
+**Engineering:** Python, Node.js, FastAPI, Docker  
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ektamulkalwar  
+- GitHub: https://github.com/ektamulkalwar
